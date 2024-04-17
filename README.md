@@ -19,13 +19,16 @@
 
 # Guia de Navegação dos Repositórios
 
-Nosso trabalho se estende não apenas a dados, permitindo conexões com análises descritivas, tratamento de dados e embasamento documental.
+Nosso trabalho se estende não apenas a dados, permitindo conexões com tratamento de dados, análise descritiva, dashboard e embasamento documental.
+
+## Tratamento dos Dados
+- [Tratamento dos Dados](https://github.com/ADA-Hack-Grupo-DD3/tratamento_Corp_Solutions)
 
 ## Análise Descritiva
 - [Análise Descritiva](https://github.com/ADA-Hack-Grupo-DD3/Analise_Descritiva) 
 
-## Tratamento dos Dados
-- [Tratamento dos Dados](https://github.com/ADA-Hack-Grupo-DD3/tratamento_Corp_Solutions)
+## Dashboard
+- [Dashboard](https://github.com/ADA-Hack-Grupo-DD3/power_bi/)
 
 ## Embasamento Documental
 - [Embasamento Documental](https://github.com/ADA-Hack-Grupo-DD3/Documentacao)
