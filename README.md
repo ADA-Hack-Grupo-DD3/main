@@ -28,6 +28,7 @@ Nosso trabalho se estende não apenas a dados, permitindo conexões com tratamen
 - [Análise Descritiva](https://github.com/ADA-Hack-Grupo-DD3/Analise_Descritiva) 
 
 ## Dashboard
+- [Conexão para o Dashboard WEB](https://app.powerbi.com/view?r=eyJrIjoiYjRjNGU0ZjMtMGU0Mi00YTNlLTlmMzUtNDE1YzI2ZTFlNjQ5IiwidCI6ImU5NGY2MTI3LTkxOWEtNDg2Zi1hNzhiLWE2MjkwOGEyYWRlZCJ9) 
 - [Dashboard](https://github.com/ADA-Hack-Grupo-DD3/power_bi/)
 
 ## Embasamento Documental
